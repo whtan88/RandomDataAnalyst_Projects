@@ -5,3 +5,4 @@ A repository for projects which I will be making YouTube videos on. Check out my
 | Project Title  | Description |
 | ------------- | ------------- |
 MountainCar Q-Learning | My first attempt at Reinforcement Learning using Q-learning to conquer the OpenAI Gymnasium MountainCar environment.
+AI solves Monty Hall Problem | A look at how various GPTs and Reinforcement Learning Agent solves the Monty Hall Problem
