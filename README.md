@@ -7,3 +7,4 @@ A repository for projects which I will be making YouTube videos on. Check out my
 MountainCar Q-Learning | My first attempt at Reinforcement Learning using Q-learning to conquer the OpenAI Gymnasium MountainCar environment.
 AI solves Monty Hall Problem | A look at how various GPTs and Reinforcement Learning Agent solves the Monty Hall Problem
 Gemini 日本語の先生  JLPT N5 | My attempt at creating a Japanese Language N5 teacher using Google Gemini
+Simple Stock Price Predictor | Creating a simple base model to predict stock price
