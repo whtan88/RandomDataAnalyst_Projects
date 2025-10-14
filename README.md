@@ -8,3 +8,4 @@ MountainCar Q-Learning | My first attempt at Reinforcement Learning using Q-lear
 AI solves Monty Hall Problem | A look at how various GPTs and Reinforcement Learning Agent solves the Monty Hall Problem
 Gemini 日本語の先生  JLPT N5 | My attempt at creating a Japanese Language N5 teacher using Google Gemini
 Simple Stock Price Predictor | Creating a simple base model to predict stock price
+Minesweeper | Simple tutorial on creating a minesweeper game using python
