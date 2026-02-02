@@ -9,3 +9,4 @@ AI solves Monty Hall Problem | A look at how various GPTs and Reinforcement Lear
 Gemini 日本語の先生  JLPT N5 | My attempt at creating a Japanese Language N5 teacher using Google Gemini
 Simple Stock Price Predictor | Creating a simple base model to predict stock price
 Minesweeper | Simple tutorial on creating a minesweeper game using python
+enhanced XGB stock price predictor | Improved XGB regressor with hyperparameter tuning for stock price prediction
