@@ -10,3 +10,4 @@ Gemini 日本語の先生  JLPT N5 | My attempt at creating a Japanese Language 
 Simple Stock Price Predictor | Creating a simple base model to predict stock price
 Minesweeper | Simple tutorial on creating a minesweeper game using python
 enhanced XGB stock price predictor | Improved XGB regressor with hyperparameter tuning for stock price prediction
+XGB Classifier Predict Stock Up Down_p1 | Trained an XGB classifier model to predict stock price direction up or down
